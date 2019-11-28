@@ -1,4 +1,5 @@
 # msbd5001 Kaggle competition 
+Competition url: https://www.kaggle.com/c/msbd5001-fall2019/
 
 19fall MSBD5001
 
