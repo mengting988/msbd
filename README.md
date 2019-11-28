@@ -1,5 +1,6 @@
 # msbd5001 Kaggle competition 
-19fall of msc inhkust
+
+19fall MSBD5001
 
 This program is Python code. It is using tree-based model to predict the label 'playtime_forever'.
 
